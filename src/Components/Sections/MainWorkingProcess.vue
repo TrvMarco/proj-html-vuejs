@@ -45,6 +45,14 @@ export default {
         padding: var(--padding-section);
     }
 
+    .row{
+        background-image: url('../../assets/img/svg-3.svg');
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: 15%;
+        background-size: 70%;
+    }
+
     .circle{
         margin: auto;
         height: 7.5rem;

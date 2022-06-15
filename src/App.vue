@@ -1,9 +1,7 @@
 <template>
   <div id="app">
-    <div class="container">
-      <BaseHeader/>
-      <BaseMain/>
-    </div>
+    <BaseHeader/>
+    <BaseMain/>
   </div>
 </template>
 
