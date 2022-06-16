@@ -1,13 +1,34 @@
 
+.btn-custom{
+    font-weight: 500;
+    padding: .875rem 3.125rem;
+    font-size: .875rem;
+    text-transform: uppercase;
+    color: #000;
+    border-radius: 0;
+}
 
 // Green button no border font black
-
 .btn-green{
-    padding: .625rem 1.875rem;
-    font-weight: bold;
     background-color: #d8f0e3;
     border: none;
-    font-size: .9375rem;
-    color: #000;
-    text-transform: uppercase;
+}
+
+// White button border pink
+.btn-border-pink{
+    background-color: #fff;
+    border: .1875rem solid #E1C0B0;
+}
+
+// Circle pink button
+.btn-circle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.875rem;
+    height: 1.875rem;
+    background-color: #E1C0B0;
+    border-radius: 50%;
+    color: #fff;
+    border: none;
 }
