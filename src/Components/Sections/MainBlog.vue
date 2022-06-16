@@ -44,6 +44,7 @@ export default {
     }
 
     .blog-calendar{
+        padding-top: .125rem;
         width: 4.375rem;
         height: 4.375rem;
         position: absolute;

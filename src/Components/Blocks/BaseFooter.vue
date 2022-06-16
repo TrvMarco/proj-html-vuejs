@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3">
-            <img src="../../assets/img/logo-sidearea-1.png" alt="Marée logo">
+            <img class="pb-2" src="../../assets/img/logo-sidearea-1.png" alt="Marée logo">
             <p>Let's Get Creative</p>
             </div>
             <div class="col-lg-3">
@@ -39,6 +39,9 @@ export default {
     footer{
         background-color: #C0E1CF;
         padding: var(--padding-section);
+        p{
+            margin-bottom: .625rem;
+        }
         ul{
             @include navBarStyle;
             & a{

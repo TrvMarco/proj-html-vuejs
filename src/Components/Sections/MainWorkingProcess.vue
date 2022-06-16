@@ -4,29 +4,29 @@
         <div class="row justify-content-center text-center p-4">
             <div class="col-lg-3">
                 <div>
-                    <div class="circle mb-3"><i class="fa-solid fa-lightbulb"></i></div>
-                    <h5>First theres an idea</h5>
+                    <div class="circle mb-4"><i class="fa-solid fa-lightbulb"></i></div>
+                    <h5 class="pb-2">First theres an idea</h5>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam labore debitis amet</p>
                 </div>
             </div>
             <div class="col-lg-3">
                 <div>
-                    <div class="circle mb-3"><i class="fa-regular fa-comment"></i></div>
-                    <h5>Than we talk about</h5>
+                    <div class="circle mb-4"><i class="fa-regular fa-comment"></i></div>
+                    <h5 class="pb-2">Than we talk about</h5>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam labore debitis amet</p>
                 </div>
             </div>
             <div class="col-lg-3">
                 <div>
-                    <div class="circle mb-3"><i class="fa-solid fa-cloud"></i></div>
-                    <h5>And we think about</h5>
+                    <div class="circle mb-4"><i class="fa-solid fa-cloud"></i></div>
+                    <h5 class="pb-2">And we think about</h5>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam labore debitis amet</p>
                 </div>
             </div>
             <div class="col-lg-3">
                 <div>
-                    <div class="circle mb-3"><i class="fa-solid fa-pen-fancy"></i></div>
-                    <h5>So we draw along</h5>
+                    <div class="circle mb-4"><i class="fa-solid fa-pen-fancy"></i></div>
+                    <h5 class="pb-2">So we draw along</h5>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam labore debitis amet</p>
                 </div>
             </div>
