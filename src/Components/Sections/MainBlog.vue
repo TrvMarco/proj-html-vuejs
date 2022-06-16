@@ -53,6 +53,7 @@ export default {
         background-size: contain;
         font-weight: bold;
         text-align: center;
+        box-shadow: 2px 2px 4px 1px rgba(87, 87, 87, 0.39)
     }
 
     .date{
