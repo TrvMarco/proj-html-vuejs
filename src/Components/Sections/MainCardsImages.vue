@@ -28,7 +28,11 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  .cards div{
-    padding: 0;
+  .cards{
+    margin-right: 0;
+
+    & div{
+      padding: 0;
+    }
   }
 </style>
