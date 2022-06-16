@@ -4,6 +4,7 @@
     <MainCardsImages/>
     <MainWorkingProcess/>
     <MainWorkWithUs/>
+    <MainBlog/>
   </main>
 </template>
 
@@ -12,6 +13,7 @@ import MainHeroSlider from '../../Components/Sections/MainHeroSlider'
 import MainCardsImages from '../../Components/Sections/MainCardsImages'
 import MainWorkingProcess from '../../Components/Sections/MainWorkingProcess'
 import MainWorkWithUs from '../../Components/Sections/MainWorkWithUs'
+import MainBlog from '../../Components/Sections/MainBlog'
 
 export default {
     name: 'BaseMain',
@@ -20,6 +22,7 @@ export default {
         MainCardsImages,
         MainWorkingProcess,
         MainWorkWithUs,
+        MainBlog
     }
 }
 </script>
