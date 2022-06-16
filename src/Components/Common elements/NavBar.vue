@@ -1,11 +1,11 @@
 <template>
   <ul>
-    <li>HOME</li>
-    <li>PAGES</li>
-    <li>PORTFOLIO</li>
-    <li>BLOG</li>
-    <li>SHOP</li>
-    <li>ELEMENTS</li>
+    <li class="d-none d-lg-block">HOME</li>
+    <li class="d-none d-lg-block">PAGES</li>
+    <li class="d-none d-lg-block">PORTFOLIO</li>
+    <li class="d-none d-lg-block">BLOG</li>
+    <li class="d-none d-lg-block">SHOP</li>
+    <li class="d-none d-lg-block">ELEMENTS</li>
     <li><img src="../../assets/img/svg-1.svg" alt="menù svg"></li>
     </ul>
 </template>
@@ -21,7 +21,7 @@ export default {
 
 ul{
     @include navBarStyle;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 li{

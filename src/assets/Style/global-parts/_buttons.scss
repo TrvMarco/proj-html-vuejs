@@ -31,4 +31,17 @@
     border-radius: 50%;
     color: #fff;
     border: none;
+
 }
+
+// Circle pink button small (Slider)
+.slider{
+    width: .625rem;
+    height: .625rem;
+    margin: 0 .625rem;
+    padding: 0;
+    &.active{
+        transform: scale(1.5);
+    }
+}
+

@@ -18,6 +18,11 @@
                 <i class="fa-solid fa-chevron-right"></i>
             </button>
         </div>
+        <div class="col-12 d-flex justify-content-center pt-2">
+            <button class="btn-circle slider"></button>
+            <button class="btn-circle slider"></button>
+            <button class="btn-circle slider active"></button>
+        </div>
     </div>
   </div>
   </section>
@@ -32,6 +37,10 @@ export default {
 <style lang="scss" scoped>
     .hero-slider{
         padding: var(--padding-hero-slider);
+
+        img{
+            max-width: 90%;
+        }
     }
 
     .hero-text{
