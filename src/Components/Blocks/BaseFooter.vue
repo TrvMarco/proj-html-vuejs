@@ -1,7 +1,7 @@
 <template>
   <footer>
     <div class="container">
-        <div class="row">
+        <div class="row align-items-center">
             <div class="col-lg-3">
             <img class="pb-2" src="../../assets/img/logo-sidearea-1.png" alt="Marée logo">
             <p>Let's Get Creative</p>

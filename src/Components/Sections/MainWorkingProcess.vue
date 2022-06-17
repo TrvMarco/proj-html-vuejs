@@ -53,6 +53,12 @@ export default {
         background-size: 70%;
     }
 
+    @media screen and (max-width: 61.9375rem) {
+        .row{
+            background-image: none;
+        }    
+    }
+
     .circle{
         margin: auto;
         height: 7.5rem;
