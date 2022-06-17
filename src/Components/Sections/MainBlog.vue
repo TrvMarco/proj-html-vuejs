@@ -4,7 +4,7 @@
         <div class="col-lg-4 container">
             <div class="blog-calendar">
                 <p class="italic-font date">07</p>
-                <p><small>MAY '19</small></p>
+                <p><small>JAN '19</small></p>
             </div>
             <img class="img-fluid pb-4" src="../../assets/img/h-2-blog-img-1.jpg" alt="Article image">
             <h4 class="pb-3">This Way, loves: a detailed guide through new design</h4>
@@ -12,7 +12,7 @@
         </div>
         <div class="col-lg-4 container">
             <div class="blog-calendar">
-                <p class="italic-font date">07</p>
+                <p class="italic-font date">10</p>
                 <p><small>MAY '19</small></p>
             </div>
             <img class="img-fluid pb-4" src="../../assets/img/h-2-blog-img-2.jpg" alt="Article image">
@@ -21,8 +21,8 @@
         </div>
         <div class="col-lg-4 container">
             <div class="blog-calendar">
-                <p class="italic-font date">07</p>
-                <p><small>MAY '19</small></p>
+                <p class="italic-font date">22</p>
+                <p><small>OCT '19</small></p>
             </div>
             <img class="img-fluid pb-4" src="../../assets/img/h-2-blog-img-3.jpg" alt="Article image">
             <h4 class="pb-3">Introduce Richard Laperrière of those amazing features</h4>

@@ -3,7 +3,7 @@
     <div class="container-fluid">
     <div class="row align-items-center">
         <div class="col-lg-6 d-flex justify-content-between align-items-center">
-            <button class="btn-circle d-none d-md-block">
+            <button class="btn-circle d-none d-lg-block">
                     <i class="fa-solid fa-chevron-left"></i>
             </button>
             <div class="hero-text">
@@ -14,7 +14,7 @@
         </div>
         <div class="col-lg-6 d-flex justify-content-between align-items-center">
             <img class="img-fluid" src="../../assets/img/hero-slider.png" alt="Art image slider">
-            <button class="btn-circle d-none d-md-block">
+            <button class="btn-circle d-none d-lg-block">
                 <i class="fa-solid fa-chevron-right"></i>
             </button>
         </div>

@@ -86,5 +86,5 @@ export default {
     .fa-pen-fancy{
         color: var(--pen-color);
     }
-
+    
 </style>
