@@ -17,6 +17,7 @@ export default {
 <style lang="scss" scoped>
     section{
       padding: var(--padding-section);
-      background: var(--main-bg-color);
+      background-image: url('../../assets/img/bg-proj.png');
+      background-size: cover;
     }
 </style>

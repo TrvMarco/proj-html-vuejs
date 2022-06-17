@@ -1,5 +1,5 @@
 <template>
-  <section class="blog container">
+  <section id="blog-section" class="blog container">
     <div class="row justify-content-center gy-5">
         <div class="col-lg-4 container">
             <div class="blog-calendar">
