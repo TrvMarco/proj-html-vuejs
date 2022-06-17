@@ -1,18 +1,25 @@
 <template>
   <ul>
-    <li class="d-none d-lg-block">HOME</li>
-    <li class="d-none d-lg-block">PAGES</li>
-    <li class="d-none d-lg-block">PORTFOLIO</li>
-    <li class="d-none d-lg-block">BLOG</li>
-    <li class="d-none d-lg-block">SHOP</li>
-    <li class="d-none d-lg-block">ELEMENTS</li>
+    <li v-for="link in links" :key="link" class="d-none d-lg-block text-uppercase"><a href="#">{{link}}</a></li>
     <li><img src="../../assets/img/svg-1.svg" alt="menù svg"></li>
     </ul>
 </template>
 
 <script>
 export default {
-    name: 'NavBar'
+    name: 'NavBar',
+    data(){
+        return{
+            links:[
+                'home',
+                'pages',
+                'portfolio',
+                'blog',
+                'shop',
+                'elements'    
+            ]
+        }
+    }
 }
 </script>
 
@@ -22,6 +29,11 @@ export default {
 ul{
     @include navBarStyle;
     font-weight: 500;
+
+    a{
+        text-decoration: none;
+        color: inherit;
+    }
 }
 
 li{
